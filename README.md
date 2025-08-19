@@ -135,13 +135,13 @@ CALCULATE(
 ## 7) Dashboard Snapshots
 
 ### Key Influencers
-![Key Influencers](Key influence.png)
+![Key Influencers](key_influence.png)
 
 ### Detailed Measures
 ![Detail Measures](detail.png)
 
 ### Executive Dashboard
-![Executive Dashboard](Excecutive_db.png)
+![Executive Dashboard](excecutive_db.png)
 
 ---
 
@@ -161,3 +161,4 @@ To extend this project beyond training, I would consider:
 
 This project was a valuable exercise in turning raw transactional data into **actionable executive insights**.  
 I practiced **data cleaning, data modeling, DAX calculations, and visualization design** in Power BI to build a professional dashboard useful for decision-making.
+
